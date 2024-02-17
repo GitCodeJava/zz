@@ -8,6 +8,6 @@ public class controller {
 
 	@GetMapping("")
 	public String index() {
-		return "hello data gg";
+		return "hello datagg";
 	}
 }
